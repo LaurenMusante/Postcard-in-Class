@@ -2959,6 +2959,27 @@
     "CSharpLanguageVersion": 800
   },
   "RootNamespace": "FriendLetter",
-  "Documents": [],
+  "Documents": [
+    {
+      "FilePath": "Views/home/Postcard.cshtml",
+      "TargetPath": "Views/home/Postcard.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views/home/Booo.cshtml",
+      "TargetPath": "Views/home/Booo.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views/home/letter.cshtml",
+      "TargetPath": "Views/home/letter.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views/home/Form.cshtml",
+      "TargetPath": "Views/home/Form.cshtml",
+      "FileKind": "mvc"
+    }
+  ],
   "SerializationFormat": "0.2"
 }

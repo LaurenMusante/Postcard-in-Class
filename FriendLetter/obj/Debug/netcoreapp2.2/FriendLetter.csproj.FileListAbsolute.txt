@@ -12,3 +12,15 @@
 /Users/Guest/Desktop/FriendLetter.Solution/FriendLetter/obj/Debug/netcoreapp2.2/FriendLetter.RazorTargetAssemblyInfo.cache
 /Users/Guest/Desktop/FriendLetter.Solution/FriendLetter/obj/Debug/netcoreapp2.2/FriendLetter.dll
 /Users/Guest/Desktop/FriendLetter.Solution/FriendLetter/obj/Debug/netcoreapp2.2/FriendLetter.pdb
+/Users/Guest/Desktop/FriendLetter.Solution/FriendLetter/bin/Debug/netcoreapp2.2/FriendLetter.Views.dll
+/Users/Guest/Desktop/FriendLetter.Solution/FriendLetter/bin/Debug/netcoreapp2.2/FriendLetter.Views.pdb
+/Users/Guest/Desktop/FriendLetter.Solution/FriendLetter/obj/Debug/netcoreapp2.2/FriendLetter.TagHelpers.input.cache
+/Users/Guest/Desktop/FriendLetter.Solution/FriendLetter/obj/Debug/netcoreapp2.2/FriendLetter.TagHelpers.output.cache
+/Users/Guest/Desktop/FriendLetter.Solution/FriendLetter/obj/Debug/netcoreapp2.2/FriendLetter.RazorCoreGenerate.cache
+/Users/Guest/Desktop/FriendLetter.Solution/FriendLetter/obj/Debug/netcoreapp2.2/Razor/Views/home/letter.g.cshtml.cs
+/Users/Guest/Desktop/FriendLetter.Solution/FriendLetter/obj/Debug/netcoreapp2.2/FriendLetter.RazorTargetAssemblyInfo.cs
+/Users/Guest/Desktop/FriendLetter.Solution/FriendLetter/obj/Debug/netcoreapp2.2/FriendLetter.Views.pdb
+/Users/Guest/Desktop/FriendLetter.Solution/FriendLetter/obj/Debug/netcoreapp2.2/FriendLetter.csproj.CopyComplete
+/Users/Guest/Desktop/FriendLetter.Solution/FriendLetter/obj/Debug/netcoreapp2.2/Razor/Views/home/Booo.g.cshtml.cs
+/Users/Guest/Desktop/FriendLetter.Solution/FriendLetter/obj/Debug/netcoreapp2.2/Razor/Views/home/Form.g.cshtml.cs
+/Users/Guest/Desktop/FriendLetter.Solution/FriendLetter/obj/Debug/netcoreapp2.2/Razor/Views/home/Postcard.g.cshtml.cs
